@@ -1,2 +1,5 @@
-this is a car.  It is very shiny.
+<<<<<< HEAD
+
+This is a car.  It is very shiny.
 This is a Git page
+>>>>>>> master
