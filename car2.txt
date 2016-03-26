@@ -1,2 +1,2 @@
-this is a car. 
+this is a car.  It is very shiny.
 This is a Git page
